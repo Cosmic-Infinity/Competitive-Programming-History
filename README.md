@@ -1,5 +1,5 @@
 # HackerRank-Solutions
-[Visit me on Hackerrank](https://www.hackerrank.com/CosmicInfinity)
+<a href="https://www.hackerrank.com/CosmicInfinity" target="_blank">Visit me on Hackerrank</a>
 
 A respository of my solutions to HackerRank problems. I solve some when I get time, or am too bored to do anything else.
 
