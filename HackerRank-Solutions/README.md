@@ -7,6 +7,7 @@ A respository of my solutions to HackerRank problems. I solve some when I get ti
 1. Java Solutions *[Incomplete]*
 2. C++ Solutions *[Incomplete]*
 3. Problem Solving Solutions *[Incomplete]*
+4. Tutorial *[Complete 30 Days of Code, Incomplete 10 Days of Statistics]*
 
 ## Inconsistencies
 
